@@ -7,8 +7,8 @@ This is a datapack that can make the gamerule keepInventory no longer a global s
 # How to use
 用法
 
-Load this datapack in minecraft 1.15+.  
-于1.15+版本加载数据包
+Load this datapack in minecraft 1.14.X.  
+于1.14.X版本加载数据包
 
 Using */tag* command to add tag to players.  
 使用 */tag* 命令为玩家添加标签。
