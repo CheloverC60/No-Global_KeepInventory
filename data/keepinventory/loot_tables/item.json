@@ -6,13 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:stone",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag": "{keepinventory_looteditem:1b}"
-                        }
-                    ]
+                    "name": "minecraft:stone"
                 }
             ]
         }
